@@ -14,3 +14,10 @@
     width: 100px;
     /*display: flex;*/
 }
+
+.continue {
+    background-color: #303b5a;
+    color: white;
+    border: none;
+    border-radius: 20px;
+}
