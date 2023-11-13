@@ -4,14 +4,14 @@
 .left-container {
     background-color: blue;
     color: white;
-    height: 200px;
-    width: 100px;
+    height: 400px;
+    width: 200px;
 }
 
 .right-container {
     background-color: white;
-    height: 200px;
-    width: 100px;
+    height: 400px;
+    width: 200px;
     /*display: flex;*/
 }
 
